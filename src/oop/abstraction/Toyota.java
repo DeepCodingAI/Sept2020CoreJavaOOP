@@ -1,6 +1,6 @@
 package oop.abstraction;
 
-public class Toyota extends MotorVehicle implements Car{
+public class Toyota extends MotorVehicle implements Car,Vehicle{
 
 	
 	public void carShape() {
